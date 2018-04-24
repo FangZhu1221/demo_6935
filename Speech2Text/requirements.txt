@@ -1,0 +1,9 @@
+python-levenshtein
+torch
+visdom
+wget
+librosa
+tqdm
+keras
+tensorflow
+hd5
